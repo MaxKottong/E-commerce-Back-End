@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\db",
+    "\\models",
+    "\\routes",
+    "\\routes\\api",
+    "\\seeds"
   ],
-  "SelectedNode": "\\C:\\Users\\maxko\\Bootcamp\\Challenges\\E-commerce Back End",
+  "SelectedNode": "\\models\\Product.js",
   "PreviewInSolutionExplorer": false
 }
