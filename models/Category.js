@@ -16,10 +16,10 @@ Category.init(
         },
         category_name: {
             type: DataTypes.STRING,
-            allowNull: false
-        },
-        products: {
-
+            allowNull: false,
+            validate: {
+                notEmpty: true
+            }
         }
     },
     {
