@@ -42,9 +42,6 @@ Product.init(
                 model: 'category',
                 key: 'id'
             }
-        },
-        category: {
-
         }
     },
     {
