@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\db",
+    "\\config",
     "\\models",
     "\\routes",
     "\\routes\\api",
     "\\seeds"
   ],
-  "SelectedNode": "\\models\\Category.js",
+  "SelectedNode": "\\config\\connection.js",
   "PreviewInSolutionExplorer": false
 }
