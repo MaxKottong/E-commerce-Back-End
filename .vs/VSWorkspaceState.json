@@ -2,11 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\config",
+    "\\db",
     "\\models",
     "\\routes",
     "\\routes\\api",
     "\\seeds"
   ],
-  "SelectedNode": "\\config\\connection.js",
+  "SelectedNode": "\\routes\\api\\tag-routes.js",
   "PreviewInSolutionExplorer": false
 }
